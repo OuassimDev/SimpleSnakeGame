@@ -44,7 +44,7 @@
 
 ###
 
-<h4 align="center">Ouassim Addad<br>Github : @OuassimDev<br>Email : wassimaddadd12@gmail.com</h4>
+<h4 align="center">Ouassim Addad<br>Github : @OuassimDev<br>Email : ouassimad@proton.me</h4>
 
 ###
 
